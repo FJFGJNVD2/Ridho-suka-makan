@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Rule34>
 <html>
 <head>
     <meta charset="UTF-8">
